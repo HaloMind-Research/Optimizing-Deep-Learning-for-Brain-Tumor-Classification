@@ -169,17 +169,6 @@ Special thanks to:
 **Contributions:**
 
 * Compute resource support
-* Manuscript approval
 * Administrative assistance
-
----
-
-### **Himangshu Pal**
-
-**Contributions:**
-
-* Supervision
-* Review & editing
-* Conceptual oversight
 
 ---
