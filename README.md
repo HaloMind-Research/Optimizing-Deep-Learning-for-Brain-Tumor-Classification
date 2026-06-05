@@ -143,7 +143,7 @@ pip install tensorflow opencv-python-headless scikit-learn pandas seaborn matplo
 
 Special thanks to:
 
-* **Mr. Himangshu Pal** — Supervision, guidance, and feedback
+* **Professor Palash Ghosal** — Guidance, and Feedback
 
 ---
 
