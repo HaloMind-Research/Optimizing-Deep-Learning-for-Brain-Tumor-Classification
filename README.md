@@ -169,6 +169,7 @@ Special thanks to:
 **Contributions:**
 
 * Compute resource support
+* Computational pipeline verification
 * Administrative assistance
 
 ---
