@@ -153,23 +153,5 @@ Special thanks to:
 
  LinkedIn: [https://www.linkedin.com/in/latchan-chhetri-704380297/](https://www.linkedin.com/in/latchan-chhetri-704380297/)
 
-**Contributions:**
-
-* Conceptualization
-* Methodology & experimental design
-* Patient-level data splitting
-* Preprocessing pipeline
-* Model training & ablation study
-* Analysis, visualization, and writing
-
----
-
-### **Aman Kumar**
-
-**Contributions:**
-
-* Compute resource support
-* Computational pipeline verification
-* Administrative assistance
 
 ---
