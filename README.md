@@ -137,21 +137,5 @@ All outputs are available in the **master Jupyter notebook** included in this re
 pip install tensorflow opencv-python-headless scikit-learn pandas seaborn matplotlib tqdm mat73
 ```
 
----
-
-##  Acknowledgments
-
-Special thanks to:
-
-* **Professor Palash Ghosal** — Guidance, and Feedback
-
----
-
-##  Authors & Contributions
-
-### **Latchan Chhetri**
-
- LinkedIn: [https://www.linkedin.com/in/latchan-chhetri-704380297/](https://www.linkedin.com/in/latchan-chhetri-704380297/)
 
 
----
